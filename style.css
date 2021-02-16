@@ -23,11 +23,11 @@ body{
 .e{
     position: absolute !important;
     left:60px !important;
-    /* top: 13px !important; */
+    
 
 }
 
-/* login form styles */
+
 main {
     height: 70vh;
     width: 100%;
